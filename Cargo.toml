@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "nostr-sdk-error-project"
+version = "0.1.0"
+
+[dependencies]
+console_error_panic_hook = "0.1.7"
+nostr-sdk = "0.26.1"
